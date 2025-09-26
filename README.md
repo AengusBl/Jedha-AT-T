@@ -10,4 +10,4 @@ See AT&T_spam_detector.ipynb for more.
 - Architectures: Two notebooks detailing the architectures I put together during this project and what I did with them;
 - AT&T_spam_detector.ipynb: The instructions for the project;
 - EDA.ipynb: An overview of the exploratory data analysis I did at the start of the project;
-- research.ipynb: An overview of the research I did to come up with the aforementioned architectures;
+- research.ipynb: An overview of the research I did to come up with the aforementioned architectures.
